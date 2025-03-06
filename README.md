@@ -1,2 +1,2 @@
 # angular-test
-demo
+demo 2
